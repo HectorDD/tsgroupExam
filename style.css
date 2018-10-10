@@ -1,0 +1,20 @@
+.calendar-header{
+
+	color:blue;
+}
+.calendar-container{
+	width:25%;
+	display: inline-block;
+}
+
+#year-container{
+	width:75%;
+}
+
+.holiday{
+	color:red;
+}
+p{
+	 margin: 0;
+    padding: 0;
+}
